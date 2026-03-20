@@ -34,7 +34,7 @@ No internet. Just fast, local voice control.
 
 ##  Hardware Prototype
 
-*(Photos coming soon)*
+[Hardware Prototype](prototype.jpeg)
 
 ---
 
